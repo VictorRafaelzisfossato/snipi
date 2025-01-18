@@ -1,0 +1,10 @@
+{
+    "name": "Snipi",
+    "short_name": "Snipi",
+    "description": "IDE online para criar e salvar código",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50"
+  }
+  
